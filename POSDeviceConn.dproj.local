@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/04/20 10:58:07.000.977,=F:\Users\Erric\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/04/20 10:59:24.000.157,=F:\Users\Erric\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/04/20 11:00:51.000.154,=F:\Users\Erric\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/04/20 11:08:54.000.969,=F:\Users\Erric\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/08/07 09:31:12.000.468,=F:\Users\Erric\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/08/07 10:41:34.000.412,F:\Users\Erric\Documents\RAD Studio\Projects\Unit2.dfm=F:\Users\Erric\Documents\RAD Studio\Projects\POS_硬體連接測試\Unit2.dfm</Transaction>
+    <Transaction>2018/08/07 10:41:34.000.412,F:\Users\Erric\Documents\RAD Studio\Projects\Unit2.pas=F:\Users\Erric\Documents\RAD Studio\Projects\POS_硬體連接測試\Unit2.pas</Transaction>
+    <Transaction>2018/08/07 10:41:35.000.374,F:\Users\Erric\Documents\RAD Studio\Projects\Project4.dproj=F:\Users\Erric\Documents\RAD Studio\Projects\POS_硬體連接測試\Project4.dproj</Transaction>
+    <Transaction>2018/08/07 10:44:07.000.936,F:\Users\Erric\Documents\RAD Studio\Projects\POS_硬體連接測試\Project4.dproj=F:\Users\Erric\Documents\RAD Studio\Projects\POS_硬體連接測試\POSDeviceConn.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
